@@ -1,3 +1,4 @@
+import React from 'react';
 import { evColumns, thielColumns, zFellowsColumns, neoColumns, stsColumns, kpColumns, cameronColumns, riseColumns } from "./columns";
 import type { EVWinner, ThielFellow, ZFellow, NeoScholar, STSScholar, KPFellow, CameronScholar, RiseScholar } from "../types/fellowships";
 
@@ -26,7 +27,12 @@ export const FELLOWSHIP_THEMES = {
     shortName: "Emergent Ventures",
     color: "#00c79f",
     hoverColor: "#00b38f",
-    description: "Emergent Ventures is a fellowship and grant program founded by Tyler Cowen (https://en.wikipedia.org/wiki/Tyler_Cowen), economist and author of the blog Marginal Revolution, from the Mercatus Center at GMU. It funds moonshots and highly ambitious ideas to improve society.",
+    description: React.createElement('span', {}, 
+      React.createElement('a', { className: "underline", href: "https://www.mercatus.org/emergent-ventures" }, "Emergent Ventures"),
+      " is a fellowship and grant program founded by ",
+      React.createElement('a', { className: "underline", href: "https://en.wikipedia.org/wiki/Tyler_Cowen" }, "Tyler Cowen"),
+      ", economist and author of the blog Marginal Revolution, from the Mercatus Center at GMU. It funds moonshots and highly ambitious ideas to improve society."
+    ),
     columns: evColumns,
     dataFile: "ev-winners-with-embeddings.json",
     filterFields: ["batch", "name"],
