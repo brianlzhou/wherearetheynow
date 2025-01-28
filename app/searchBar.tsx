@@ -44,9 +44,6 @@ export default function SearchBar({ setLoadingTrue, fellowship, theme }: SearchB
 
     return (
         <>
-            {/* <h2 className="font-semibold mb-2">
-                {isHomePage ? "Search Across All Fellowships" : `Search ${theme.name}`}
-            </h2> */}
             <p className="mb-4 text-sm">
                 {isHomePage 
                     ? "Discover talented individuals across multiple prestigious fellowship programs. From entrepreneurs and researchers to innovators and change-makers."
