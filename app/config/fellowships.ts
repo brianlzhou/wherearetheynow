@@ -1,6 +1,6 @@
 import React from 'react';
 import { evColumns, thielColumns, zFellowsColumns, neoColumns, stsColumns, kpColumns, cameronColumns, riseColumns } from "./columns";
-import type { EVWinner, ThielFellow, ZFellow, NeoScholar, STSScholar, KPFellow, CameronScholar, RiseScholar } from "../types/fellowships";
+import type { EVWinner, ThielFellow, ZFellow, NeoScholar, STSScholar, KPFellow, CameronScholar, RiseScholar, FellowshipTheme } from "../types/fellowships";
 
 export const FELLOWSHIP_CATEGORIES = {
   ventures: {
@@ -21,7 +21,7 @@ export const FELLOWSHIP_CATEGORIES = {
   }
 } as const;
 
-export const FELLOWSHIP_THEMES = {
+export const FELLOWSHIP_THEMES: Record<string, FellowshipTheme> = {
   ev: {
     name: "Emergent Ventures",
     shortName: "Emergent Ventures",
@@ -33,6 +33,25 @@ export const FELLOWSHIP_THEMES = {
       React.createElement('a', { className: "underline", href: "https://en.wikipedia.org/wiki/Tyler_Cowen" }, "Tyler Cowen"),
       ", economist and author of the blog Marginal Revolution, from the Mercatus Center at GMU. It funds moonshots and highly ambitious ideas to improve society."
     ),
+    footer: [
+      React.createElement('p', { className: "mb-4" }, [
+        "Data sourced by Nabeel from ",
+        React.createElement('a', { className: "underline", href: "https://marginalrevolution.com" }, "Marginal Revolution"),
+        " and starting from ",
+        React.createElement('a', { className: "underline", href: "https://newscience.org/emergent-ventures-winners/" }, "Alexey Guzey's base.")
+      ]),
+      React.createElement('p', { className: "mb-4" }, [
+        React.createElement('a', { className: "underline", href: "https://www.mercatus.org/emergent-ventures" }, "Emergent Ventures"),
+        " lives at the Mercatus Center and was founded by ",
+        React.createElement('a', { className: "underline", href: "https://en.wikipedia.org/wiki/Tyler_Cowen" }, "Tyler Cowen"),
+        ". This is not an official website."
+      ]),
+      React.createElement('p', { className: "mb-4" }, [
+        "Last updated December 2024, up to cohort #39. Submit a data update to the ",
+        React.createElement('a', { className: "underline", href: "https://github.com/nqureshi/ev-search-python/tree/main/data" }, "Github repo"),
+        "."
+      ])
+    ],
     columns: evColumns,
     dataFile: "ev-winners-with-embeddings.json",
     filterFields: ["batch", "name"],

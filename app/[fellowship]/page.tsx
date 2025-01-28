@@ -45,9 +45,11 @@ export default function FellowshipPage({ params }: FellowshipPageProps) {
           {theme.name}
         </h1>
         <div className="flex space-x-4">
-          <a href="#footer" className="font-bold" style={{ color: theme.color }}>
-            about
-          </a>
+          {theme.footer && (
+            <a href="#footer" className="font-bold" style={{ color: theme.color }}>
+              about
+            </a>
+          )}
           <a className="font-bold" href="https://github.com/brianlzhou/wherearetheynow" style={{ color: theme.color }}>
             github
           </a>
@@ -57,7 +59,14 @@ export default function FellowshipPage({ params }: FellowshipPageProps) {
       {isLoading ? (
         <div className="text-center py-8">Loading...</div>
       ) : (
-        <Container data={data} />
+        <>
+          <Container data={data} />
+          {theme.footer && (
+            <div id="footer" className="mt-8 text-gray-600">
+              {theme.footer}
+            </div>
+          )}
+        </>
       )}
     </div>
   );

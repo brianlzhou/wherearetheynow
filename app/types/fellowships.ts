@@ -1,3 +1,6 @@
+import { ColumnDef } from "@tanstack/react-table";
+import { ReactElement } from "react";
+
 export interface BaseFellowship {
   id: number;
   name: string;
@@ -85,4 +88,17 @@ export type FellowshipData = {
   kp: KPFellow[];
   cameron: CameronScholar[];
   rise: RiseScholar[];
-}; 
+};
+
+export interface FellowshipTheme {
+  name: string;
+  shortName: string;
+  color: string;
+  hoverColor: string;
+  description: string | ReactElement;
+  columns: ColumnDef<any>[];
+  dataFile: string;
+  filterFields: string[];
+  footer?: ReactElement[];
+  type: any;
+} 
