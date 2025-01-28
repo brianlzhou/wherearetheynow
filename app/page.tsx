@@ -95,8 +95,8 @@ export default function Page() {
         <h2 className="text-xl font-semibold mb-4">Search Across All Fellowships</h2>
         <SearchBar 
           setLoadingTrue={() => setIsLoading(true)} 
-          fellowship="ev" 
-          theme={FELLOWSHIP_THEMES.ev}
+          fellowship={"ev" as FellowshipKey}
+          theme={FELLOWSHIP_THEMES["ev"]}
         />
       </div>
 

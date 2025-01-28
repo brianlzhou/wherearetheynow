@@ -1,7 +1,9 @@
+"use client";
+
 import { ColumnDef } from "@tanstack/react-table";
 import { EVWinner, ThielFellow, ZFellow, NeoScholar, STSScholar, KPFellow, CameronScholar, RiseScholar } from "../types/fellowships";
 import Link from "next/link";
-import React from "react";
+import React, { useState } from "react";
 
 const formatLink = (link: string | null | undefined) => {
   if (link && !link.startsWith('http://') && !link.startsWith('https://')) {
@@ -19,6 +21,56 @@ const formatSocialLink = (username: string | null | undefined, platform: 'twitte
   };
   return `${baseUrls[platform]}${username.replace('@', '')}`;
 };
+
+function DetailsCell({ fellow }: { fellow: ThielFellow }) {
+  const [isOpen, setIsOpen] = useState(false);
+  
+  return (
+    <div>
+      <button 
+        onClick={() => setIsOpen(!isOpen)}
+        className="text-blue-600 hover:text-blue-800"
+      >
+        {isOpen ? "Hide" : "Show"} Details
+      </button>
+      {isOpen && (
+        <div className="mt-2 space-y-2 text-sm">
+          {fellow.school && (
+            <p><span className="font-semibold">School:</span> {fellow.school}</p>
+          )}
+          {fellow.project_area && (
+            <p><span className="font-semibold">Project Area:</span> {fellow.project_area}</p>
+          )}
+          {fellow.company_name && (
+            <p><span className="font-semibold">Company:</span> {fellow.company_name}</p>
+          )}
+          <div className="flex gap-2 mt-1">
+            {fellow.twitter && (
+              <a 
+                href={formatSocialLink(fellow.twitter, 'twitter')} 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                Twitter
+              </a>
+            )}
+            {fellow.linkedin && (
+              <a 
+                href={formatSocialLink(fellow.linkedin, 'linkedin')} 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                LinkedIn
+              </a>
+            )}
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
 
 export const evColumns: ColumnDef<EVWinner>[] = [
   {
@@ -53,38 +105,13 @@ export const thielColumns: ColumnDef<ThielFellow>[] = [
     header: "Class",
   },
   {
-    accessorKey: "school",
-    header: "School",
-  },
-  {
-    accessorKey: "project_area",
-    header: "Project Area",
-  },
-  {
-    accessorKey: "company_name",
-    header: "Company",
-  },
-  {
     accessorKey: "description",
     header: "Description",
   },
   {
-    id: "social",
-    header: "Social",
-    cell: ({ row }) => {
-      const twitterLink = formatSocialLink(row.original.twitter, 'twitter');
-      const linkedinLink = formatSocialLink(row.original.linkedin, 'linkedin');
-      return (
-        <div className="flex gap-2">
-          {twitterLink && (
-            <a href={twitterLink} target="_blank" rel="noopener noreferrer">Twitter</a>
-          )}
-          {linkedinLink && (
-            <a href={linkedinLink} target="_blank" rel="noopener noreferrer">LinkedIn</a>
-          )}
-        </div>
-      );
-    },
+    id: "details",
+    header: "Details",
+    cell: ({ row }) => <DetailsCell fellow={row.original} />,
   },
 ];
 
