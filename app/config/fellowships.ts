@@ -23,7 +23,7 @@ export const FELLOWSHIP_CATEGORIES = {
 export const FELLOWSHIP_THEMES = {
   ev: {
     name: "Emergent Ventures",
-    shortName: "EV",
+    shortName: "Emergent Ventures",
     color: "#00c79f",
     hoverColor: "#00b38f",
     description: "Fellowship program funding moonshots and highly ambitious ideas to improve society.",
@@ -34,7 +34,7 @@ export const FELLOWSHIP_THEMES = {
   },
   zFellows: {
     name: "Z Fellows",
-    shortName: "Z Fellows",
+    shortName: "ZFellows",
     color: "#3b82f6",
     hoverColor: "#2563eb",
     description: "Supporting exceptional founders building the next generation of startups.",
@@ -45,7 +45,7 @@ export const FELLOWSHIP_THEMES = {
   },
   thiel: {
     name: "Thiel Fellowship",
-    shortName: "Thiel",
+    shortName: "Thiel Fellows",
     color: "#ef4444",
     hoverColor: "#dc2626",
     description: "Two-year fellowship for young entrepreneurs to build innovative companies.",
@@ -56,7 +56,7 @@ export const FELLOWSHIP_THEMES = {
   },
   neo: {
     name: "Neo Scholars",
-    shortName: "Neo",
+    shortName: "Neo Scholars",
     color: "#9333ea",
     hoverColor: "#7e22ce",
     description: "Fellowship program for exceptional students pursuing ambitious projects.",
@@ -66,8 +66,8 @@ export const FELLOWSHIP_THEMES = {
     type: {} as NeoScholar,
   },
   sts: {
-    name: "Regeneron STS",
-    shortName: "STS",
+    name: "Regeneron/Intel/Westinghouse Science Talent Search",
+    shortName: "Regeneron STS",
     color: "#1e3a8a",
     hoverColor: "#1e40af",
     description: "The nation's most prestigious science research competition for high school seniors.",
@@ -78,7 +78,7 @@ export const FELLOWSHIP_THEMES = {
   },
   kp: {
     name: "Kleiner Perkins Fellowship",
-    shortName: "KP",
+    shortName: "Kleiner Perkins",
     color: "#000000",
     hoverColor: "#1f1f1f",
     description: "Engineering and design fellowship program at top technology companies.",
@@ -89,7 +89,7 @@ export const FELLOWSHIP_THEMES = {
   },
   cameron: {
     name: "Bryan Cameron Impact Scholar",
-    shortName: "Cameron",
+    shortName: "Cameron Impact Scholars",
     color: "#d97706",
     hoverColor: "#b45309",
     description: "Supporting students committed to making positive change in their communities.",
@@ -99,8 +99,8 @@ export const FELLOWSHIP_THEMES = {
     type: {} as CameronScholar,
   },
   rise: {
-    name: "Rise Scholar",
-    shortName: "Rise",
+    name: "Rise Fellows",
+    shortName: "Rise Fellows",
     color: "#bfdbfe",
     hoverColor: "#93c5fd",
     description: "Global initiative identifying promising young people committed to serving others.",
