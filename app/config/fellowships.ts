@@ -28,7 +28,7 @@ export const FELLOWSHIP_THEMES = {
     hoverColor: "#00b38f",
     description: "Emergent Ventures is a fellowship and grant program founded by Tyler Cowen (https://en.wikipedia.org/wiki/Tyler_Cowen), economist and author of the blog Marginal Revolution, from the Mercatus Center at GMU. It funds moonshots and highly ambitious ideas to improve society.",
     columns: evColumns,
-    dataFile: "ev-winners.json",
+    dataFile: "ev-winners-with-embeddings.json",
     filterFields: ["batch", "name"],
     type: {} as EVWinner,
   },
