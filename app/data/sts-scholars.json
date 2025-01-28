@@ -1,290 +1,362 @@
 [
   {
     "id": 1,
-    "name": "Ambika Grover",
-    "school": "The Bronx High School of Science",
-    "batch": "2025",
+    "name": "Maryam Abdel-Azim",
+    "school": "Central Bucks High School East, Doylestown, PA",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Developing a Novel Artificial Intelligence Framework to Predict Effective Cancer Drug Combinations"
+    "project_title": "Targeting Signaling Molecules of P. aeruginosa by Using Mucin as an Anti-Quorum Sensing Drug: A Novel Design To Evaluate Efficacy in the Context of Multidrug Resistance",
+    "description": "Maryam Abdel-Azim, 17, of Doylestown, investigated ways to disrupt quorum sensing (QS), one method cells use to communicate, in the harmful bacteria Pseudomonas aeruginosa. Her research showed that by manipulating compounds found in mucus, QS can be decreased or prevented, opening the door to developing drug alternatives to antibiotics."
   },
   {
     "id": 2,
-    "name": "Andrew Luy",
-    "school": "Stuyvesant High School",
-    "batch": "2025",
+    "name": "Saraswathy Amjith",
+    "school": "Tesla STEM High School, Redmond, WA",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Investigating the Role of Mitochondrial Dynamics in Neurodegeneration"
+    "project_title": "A Novel Integrated Machine Learning Approach Utilizing Radar and Satellite Imagery for Selective Logging Remote Sensing Detection and Accompanying AI-Logging Map-Generating Webtool",
+    "description": "Saraswathy Amjith, 18, of Redmond, developed a way to more accurately identify illegal logging. She found that she could help compensate for cloudy weather by combining satellite optical and radar datasets, since radar imagery is not affected by clouds."
   },
   {
     "id": 3,
-    "name": "Aryan Patel",
-    "school": "Herricks High School",
-    "batch": "2025",
+    "name": "Aarav Arora",
+    "school": "Del Norte High School, San Diego, CA",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Developing a Novel Therapeutic Approach for Alzheimer's Disease"
+    "project_title": "A Mechanistic Basis for the Analysis of SARS-CoV-2 Omicron Variant Severity",
+    "description": "Aarav Arora, 18, of San Diego, developed a different approach to use patient symptom data and a mechanistic basis to analyze the severity of the Omicron variant of COVID-19. He used statistical methods to identify which mutated variants cause the most severe symptoms."
   },
   {
     "id": 4,
-    "name": "Asmi Kumar",
-    "school": "Horace Greeley High School",
-    "batch": "2025",
+    "name": "Aditi Avinash",
+    "school": "Rock Canyon High School, Highlands Ranch, CO",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Engineering a Sustainable Solution for Water Purification"
+    "project_title": "Model Validation and Preclinical Testing of Digestive Enzymes for Gluten Breakdown: A Move To Cure Gluten Intolerance and Celiac Disease",
+    "description": "Aditi Avinash, 17, of Castle Pines, found a mixture of three enzymes that she believes could one day be used to reduce the effects of gluten intolerance. Her work indicated that combining the enzymes was more effective in breaking down gluten and reducing the immune response of T-cells."
   },
   {
     "id": 5,
-    "name": "Audrey Tsao",
-    "school": "Montgomery Blair High School",
-    "batch": "2025",
+    "name": "Harshil Avlani",
+    "school": "BASIS Chandler, Chandler, AZ",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Developing Novel Algorithms for Quantum Computing Applications"
+    "project_title": "Analyzing the Effect of Mid-Circuit Measurement (MCM) on Spectator Qubits",
+    "description": "Harshil Avlani, 17, of Chandler, researched a way to describe quantum computing errors by observing physical qubits as they are exposed to the quantum mid-circuit measurement (MCM) gate at various distances. His results suggested that the MCM gate causes a significant increase in 'spectator qubit' errors."
   },
   {
     "id": 6,
-    "name": "Cindy Wang",
-    "school": "Lynbrook High School",
-    "batch": "2025",
+    "name": "Arav Bhargava",
+    "school": "The Potomac School, McLean, VA",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Investigating Climate Change Impact on Marine Ecosystems"
+    "project_title": "Low-Cost, 3D-Printed, Universal-Fit, Transradial Socket for Amputees in Developing Countries",
+    "description": "Arav Bhargava, 18, of McLean, created a low-cost universal socket, a segment of a prosthetic arm. His 3D-printed socket with circumference and length-expansion mechanisms can be made for less than $40 and can be adjusted to fit a wide range of residual limbs."
   },
   {
     "id": 7,
-    "name": "Daniel Chen",
-    "school": "Stuyvesant High School",
-    "batch": "2025",
+    "name": "Alan Bu",
+    "school": "Phillips Exeter Academy, Exeter, NH",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Developing Advanced Machine Learning Models for Medical Diagnosis"
+    "project_title": "On the Maximum Number of Spanning Trees in a Planar Graph With a Fixed Number of Edges: A Linear-Algebraic Connection",
+    "description": "Alan Bu, 17, of Glenmont, made connections between graph theory and linear algebra. His project provides precise limits on the number of spanning trees a planar graph can have, making these estimates much more precise through connections to linear algebra."
   },
   {
     "id": 8,
-    "name": "David Xing",
-    "school": "Jericho High School",
-    "batch": "2025",
+    "name": "David Lu Cao",
+    "school": "Thomas Jefferson High School for Science and Technology, Alexandria, VA",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Exploring Novel Approaches to Renewable Energy Storage"
+    "project_title": "The Implications of 'Oumuamua on Panspermia",
+    "description": "David Lu Cao, 18, of Vienna, investigated the origin of life on Earth. Inspired by the 2017 discovery of 'Oumuamua, he analyzed the possibility that microorganisms might have arrived here from elsewhere in the universe billions of years ago by hitching a ride inside comets or asteroids."
   },
   {
     "id": 9,
-    "name": "Ella Wang",
-    "school": "Thomas Jefferson High School for Science and Technology",
-    "batch": "2025",
+    "name": "Arnav N. Chakravarthy",
+    "school": "Homestead High School, Cupertino, CA",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Investigating Neural Networks for Environmental Monitoring"
+    "project_title": "Leveraging Mitochondrial DNA Mutations for Macrophage Lineage Tracing in Primary Human Tissues",
+    "description": "Arnav N. Chakravarthy, 18, of Sunnyvale, investigated how macrophage cells replenish in aging humans. His findings show promise for the regenerative possibilities of macrophage cells, including those that affect age-related diseases like Alzheimer's."
   },
   {
     "id": 10,
-    "name": "Emily Liu",
-    "school": "Ward Melville High School",
-    "batch": "2025",
+    "name": "Sophie Chen",
+    "school": "Caddo Parish Magnet High School, Shreveport, LA",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Developing Sustainable Solutions for Plastic Waste Management"
+    "project_title": "Intraoperative Histological Analysis of Squamous Cell Carcinoma Tumor Margins Using a Convolutional Neural Network",
+    "description": "Sophie Chen, 17, of Shreveport, developed a convolutional neural network machine learning model to review microscopic images of tissue during removal of squamous cell carcinoma. Her model proved to be robust, fast, and able to accurately identify suspicious tissues from images."
   },
   {
     "id": 11,
-    "name": "Eric Yang",
-    "school": "Phillips Academy",
-    "batch": "2025",
+    "name": "Thomas Cong",
+    "school": "Ossining High School, Ossining, NY",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Exploring Novel Approaches to Cancer Immunotherapy"
+    "project_title": "Overlooked Covariates in Metabolite Abundance Levels: Systematically Quantifying the Information Overlap Between Gene Expression and Metabolism Across Multiple Cancer Types",
+    "description": "Thomas Yu-Tong Cong, 17, of Ossining, researched the rapid growth of certain types of cancers. He concluded that factors like the cancer's tissue of origin, its surrounding environment in the body, and how many cancer cells there are in a mass, strongly influence metabolic signatures."
   },
   {
     "id": 12,
-    "name": "Ethan Zhou",
-    "school": "Montgomery Blair High School",
-    "batch": "2025",
+    "name": "Sophie D'Halleweyn",
+    "school": "Bronx High School of Science, Bronx, NY",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Developing Advanced Algorithms for Autonomous Systems"
+    "project_title": "Alleviating the Energy Crisis: A Novel Multi-Task Machine Learning Algorithm for Designing Efficient Nanocatalysts To Reduce Industrial Energy Impact",
+    "description": "Sophie D'Halleweyn, 17, of New York, developed a machine-learning algorithm to optimize the design and production of catalysts. She demonstrated the effectiveness of the approach by applying it to palladium-based nanoparticles, used in batteries, fuel cells, and microchip production."
   },
   {
     "id": 13,
-    "name": "Grace Jin",
-    "school": "Thomas Jefferson High School for Science and Technology",
-    "batch": "2025",
+    "name": "Sophie Gao",
+    "school": "Hunter College High School, New York, NY",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Investigating Novel Treatments for Neurodegenerative Diseases"
+    "project_title": "Uncovering Mechanisms of Action and Resistance for KRAS G12D Inhibitor MRTX1133 Using Drosophila melanogaster Models",
+    "description": "Sophie Gao, 17, of New York, studied a protein blocker's ability to combat a tumor-causing cell protein that exists in some of the deadliest cancers. She found that higher dosages of the protein blocker MRTX1133 led to higher survival in fruit fly models."
   },
   {
     "id": 14,
-    "name": "Helen Zhou",
-    "school": "Lynbrook High School",
-    "batch": "2025",
+    "name": "William Gao",
+    "school": "Centennial High School, Ellicott City, MD",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Developing Sustainable Solutions for Agricultural Waste"
+    "project_title": "Designing a Federated Learning-Driven Collaborative Diagnostic System for Metastatic Breast Cancer: Reducing Long Diagnosis Delays and Improving Patient Survival Outcomes in Developing Countries",
+    "description": "William Gao, 18, of Ellicott City, created a diagnostic image analysis tool that reduces delays in the diagnosis of metastatic breast cancer. His system includes safeguards for patient privacy and can be deployed using a smartphone."
   },
   {
     "id": 15,
-    "name": "Henry Wu",
-    "school": "Montgomery Blair High School",
-    "batch": "2025",
+    "name": "Sarang Goel",
+    "school": "Texas Academy of Mathematics and Science, Denton, TX",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Exploring Quantum Computing Applications in Cryptography"
+    "project_title": "IVY – Intelligent Vision System for the Visually Impaired: Innovative Low-Cost, AI-Based Eyeglasses To Help the Visually Impaired Overcome Mobility Limitations Through Navigational Assistance and Object Avoidance Algorithms and an Intuitive Vibration and Audio Guidance System",
+    "description": "Sarang Goel, 18, of Irving, developed a vision technology for people with failing eyesight to increase their mobility. His Intelligent Vision System (IVY) consists of eyeglasses device, automated mapping and navigation algorithms, and costs less than $300 to make."
   },
   {
     "id": 16,
-    "name": "Isabella Xue",
-    "school": "Thomas Jefferson High School for Science and Technology",
-    "batch": "2025",
+    "name": "Jacob Tyler Gross",
+    "school": "Roslyn High School, Roslyn Heights, NY",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Investigating Novel Approaches to Drug Discovery"
+    "project_title": "Investigating Synergistic Interactions Among SARS-CoV-2 Neutralizing Antibodies",
+    "description": "Jacob Tyler Gross, 17, of Roslyn, investigated whether synergistic interactions may increase the power of current antibody treatments for COVID-19 infection. He found that an antibody called S309 works better in combatting an Omicron subvariant when combined with another antibody class."
   },
   {
     "id": 17,
-    "name": "Jason Wang",
-    "school": "Stuyvesant High School",
-    "batch": "2025",
+    "name": "Luke Huang",
+    "school": "New Canaan High School, New Canaan, CT",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Developing Advanced Materials for Clean Energy"
+    "project_title": "Binary Cellular Analysis: Understanding the Link Between Aging and Mortality Risk",
+    "description": "Luke Huang, 17, of New Canaan, developed a mathematical model that assesses how cellular damage increasingly elevates the risk of death as people age. He believes this insight could validate the basis for studying anti-aging treatments."
   },
   {
     "id": 18,
-    "name": "Jennifer Zhang",
-    "school": "Ward Melville High School",
-    "batch": "2025",
+    "name": "Vincent Weisi Huang",
+    "school": "Syosset High School, Syosset, NY",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Exploring Novel Approaches to Carbon Capture"
+    "project_title": "A Smart Computer Program LauePt4 for Recognizing and Simulating Laue Patterns and Its Applications",
+    "description": "Vincent Huang, 17, of Syosset, developed a computer program to address a longstanding obstacle in crystallography: how to easily determine a crystal's internal atomic structure. He wrote a program that simulates a crystal's Laue pattern and interior lattice orientation."
   },
   {
     "id": 19,
-    "name": "Jessica Chen",
-    "school": "Thomas Jefferson High School for Science and Technology",
-    "batch": "2025",
+    "name": "Howard Ji",
+    "school": "University High School, Irvine, CA",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Investigating Machine Learning Applications in Healthcare"
+    "project_title": "Development of a Novel Autonomous Column-Climbing Robotic System (AutoBot) for Real-Time Detection and Mapping of Surface Cracks on Bridges",
+    "description": "Howard Ji, 17, of Irvine, created a robot to make inspections of aging bridges safer. His AutoBot uses wire wrapping to hold itself onto bridge columns and software he created to map surface damage in real time."
   },
   {
     "id": 20,
-    "name": "Justin Li",
-    "school": "Phillips Academy",
-    "batch": "2025",
+    "name": "Amanrai Singh Kahlon",
+    "school": "Sanford School, Hockessin, DE",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Developing Novel Approaches to Renewable Energy"
+    "project_title": "Enhancing Wearable Gait-Monitoring Systems: Identifying Optimal Kinematic Inputs in Typical Adolescents",
+    "description": "Amanrai Singh Kahlon, 17, of Hockessin, utilized specialized sensors that measure motion to investigate how to enhance assistive walking technology with machine learning. He identified two signals based on sensor placement that produced consistent, robust data."
   },
   {
     "id": 21,
-    "name": "Kevin Liu",
-    "school": "Montgomery Blair High School",
-    "batch": "2025",
+    "name": "Gavriela Beatrice Kalish-Schur",
+    "school": "Julia R. Masterman High School, Philadelphia, PA",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Exploring Artificial Intelligence in Drug Design"
+    "project_title": "IRE1 Knockdown Leads to an Anxiety Phenotype in Drosophila and Changes in BiP and BDNF Levels",
+    "description": "Gavriela Beatrice Kalish-Schur, 18, of Philadelphia, studied a potential neurological cause of anxiety using fruit flies as a model. She manipulated the fruit flies' genetics so that the IRE1 pathway was decreased in different parts of the brain."
   },
   {
     "id": 22,
-    "name": "Lucy Wang",
-    "school": "Thomas Jefferson High School for Science and Technology",
-    "batch": "2025",
+    "name": "Zeyneb N. Kaya",
+    "school": "Saratoga High School, Saratoga, CA",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Investigating Novel Approaches to Water Conservation"
+    "project_title": "MADLIBS: A Novel Multilingual Data Augmentation Algorithm for Low-Resource Neural Machine Translation",
+    "description": "Zeyneb N. Kaya, 17, of Saratoga, improved resources for machine learning models to help preserve endangered languages. She wrote an algorithm called MADLIBS that generates additional text to help NLP algorithms work better with low-resource languages."
   },
   {
     "id": 23,
-    "name": "Michael Chen",
-    "school": "Stuyvesant High School",
-    "batch": "2025",
+    "name": "Natasha Kulviwat",
+    "school": "Jericho High School, Jericho, NY",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Developing Advanced Materials for Energy Storage"
+    "project_title": "The Neurobiology of Suicide: Blood-Brain Barrier Breakdown as a Novel Suicide-Risk Biomarker",
+    "description": "Natasha Kulviwat, 17, of Jericho, searched for a biomarker to identify people at risk for suicide. Her research suggests that high levels of albumin and the protein claudin-5 may serve as early markers of suicide risk."
   },
   {
     "id": 24,
-    "name": "Michelle Zhang",
-    "school": "Ward Melville High School",
-    "batch": "2025",
+    "name": "Alexis Li",
+    "school": "Hamilton High School, Chandler, AZ",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Exploring Novel Approaches to Sustainable Agriculture"
+    "project_title": "BrainSTEAM: A Practical Pipeline for Connectome-Based fMRI Analysis Toward Brain Disorder Classification",
+    "description": "Alexis Li, 17, of Gilbert, developed a suite of machine learning tools that identify key neural patterns in neuropsychiatric conditions. Her BrainSTEAM tool analyzes blood flow information in functional MRI images to determine brain connection strengths."
   },
   {
     "id": 25,
-    "name": "Nathan Li",
-    "school": "Thomas Jefferson High School for Science and Technology",
-    "batch": "2025",
+    "name": "Alexandra Mahajan",
+    "school": "Cambridge Rindge & Latin School, Cambridge, MA",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Investigating Machine Learning in Climate Modeling"
+    "project_title": "A Novel Method To Determine Precise Stellar Radii and Temperatures of Low Mass Stars Using JWST Transits and Occultations",
+    "description": "Alexandra Mahajan, 17, of Cambridge, developed a new method to measure the radius and temperature of small stars. She analyzed data from the James Webb Space Telescope to achieve more accurate measurements of low-mass stars."
   },
   {
     "id": 26,
-    "name": "Rachel Wang",
-    "school": "Montgomery Blair High School",
-    "batch": "2025",
+    "name": "Ekansh Mittal",
+    "school": "Westview High School, Portland, OR",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Developing Novel Approaches to Waste Management"
+    "project_title": "Harnessing Machine Learning and 3D Spheroid Cultures To Identify Biomarkers for Combating Drug Resistance in Breast Cancer",
+    "description": "Ekansh Mittal, 17, of Beaverton, investigated genes responsible for drug resistance in breast cancer treatments. He identified over 30 genes that predicted drug resistance and found that inhibiting IGF1R significantly increased the death of cancer cells."
   },
   {
     "id": 27,
-    "name": "Ryan Zhang",
-    "school": "Stuyvesant High School",
-    "batch": "2025",
+    "name": "Ramon Moreno Jr.",
+    "school": "Thousand Oaks High School, Thousand Oaks, CA",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Exploring Quantum Computing in Financial Modeling"
+    "project_title": "The Influence of Isonicotinamide on the Chronological Lifespan of Saccharomyces cerevisiae Strains",
+    "description": "Ramon Moreno, 17, of Thousand Oaks, studied the potential of the chemical compound isonicotinamide (INAM) to extend the lifespan of yeast cells. He found significant correlations between INAM's influence and cell growth in different yeast strains."
   },
   {
     "id": 28,
-    "name": "Sarah Chen",
-    "school": "Thomas Jefferson High School for Science and Technology",
-    "batch": "2025",
+    "name": "Ella Pilacek",
+    "school": "Oviedo High School, Oviedo, FL",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Investigating Novel Approaches to Disease Detection"
+    "project_title": "Promoting Attraction of Apis mellifera to the Synthetic Scent of the Endangered Orchid Prosthechea cochleate Using Pavlovian Conditioning and Direct Feeding Paradigms for Conservation",
+    "description": "Ella Pilacek, 17, of Winter Springs, researched Pavlovian conditioning of honeybees to promote pollination of endangered native orchids. She successfully trained non-native honeybees to be attracted to synthetic orchid scents."
   },
   {
     "id": 29,
-    "name": "Sophie Liu",
-    "school": "Ward Melville High School",
-    "batch": "2025",
+    "name": "Achyuta Rajaram",
+    "school": "Phillips Exeter Academy, Exeter, NH",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Developing Sustainable Solutions for Urban Planning"
+    "project_title": "Automatic Discovery of Visual Circuits",
+    "description": "Achyuta Rajaram, 17, of Exeter, improved automatic discovery of visual circuits in machine learning. He developed an automatic method for recognizing which parts of computer vision algorithms identify what in images."
   },
   {
     "id": 30,
-    "name": "Thomas Wang",
-    "school": "Montgomery Blair High School",
-    "batch": "2025",
+    "name": "Rhea Rastogi",
+    "school": "Loveless Academic Magnet Program High School, Montgomery, AL",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Exploring Novel Approaches to Energy Efficiency"
+    "project_title": "Understanding How the Maternal Epigenetic Reprogramming Function of LSD1 Contributes to Inherited Developmental Disease",
+    "description": "Rhea Rastogi, 18, of Montgomery, explored whether errors in histone methylation affected future generations. She found that offspring of worms missing certain enzymes had developmental delays and decreased fertility that accumulated in later generations."
   },
   {
     "id": 31,
-    "name": "Victoria Zhang",
-    "school": "Thomas Jefferson High School for Science and Technology",
-    "batch": "2025",
+    "name": "Kun-Hyung Roh",
+    "school": "Bronx High School of Science, Bronx, NY",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Investigating Machine Learning in Drug Discovery"
+    "project_title": "Novel Drug Discovery Methodology Using Machine Learning for Gene Expression-Based Virtual Screening Predicts Novel Compounds To Reverse Alzheimer's Disease With Applications to Cancer and Longevity by Inhibiting CtBP2 Expression",
+    "description": "Kun-Hyung Roh, 18, of New York, created A.I. software to ease potential drug discovery by identifying compounds that inhibit gene expression of proteins. He focused on Alzheimer's disease and developed a machine-learning method to identify new potential drug candidates."
   },
   {
     "id": 32,
-    "name": "William Chen",
-    "school": "Stuyvesant High School",
-    "batch": "2025",
+    "name": "Linus Tang",
+    "school": "Davidson Academy Online, Reno, NV",
+    "batch": "2024",
     "date_announced": "2024-01-24",
-    "description": null,
-    "project_title": "Developing Advanced Materials for Clean Energy"
+    "project_title": "Extremal Bounds on Peripherality Measures",
+    "description": "Linus Tang, 17, of San Jose, researched peripherality measures in graph theory. He proved tighter upper and lower bounds on the values that can be achieved by several numerical measures of peripherality and refuted two previous conjectures."
+  },
+  {
+    "id": 33,
+    "name": "Riya Tyagi",
+    "school": "Phillips Exeter Academy, Exeter, NH",
+    "batch": "2024",
+    "date_announced": "2024-01-24",
+    "project_title": "Using Computer Vision To Disentangle Features Enabling AI To Learn Self-Reported Race and Ethnicity From Medical Images",
+    "description": "Riya Tyagi, 16, of Exeter, sought to understand how convolutional neural networks determine patients' self-reported race and ethnicity. She discovered a potential cause of bias in the U-Net segmentation model widely used for medical image processing."
+  },
+  {
+    "id": 34,
+    "name": "Grant Wang",
+    "school": "Williamsville East High School, East Amherst, NY",
+    "batch": "2024",
+    "date_announced": "2024-01-24",
+    "project_title": "MLOffense: Multilingual Offensive Language Detection and Target Identification on Social Media Using Graph Attention Transformer",
+    "description": "Grant Wang, 17, of East Amherst, created an A.I. model to detect offensive content posted on social media in 100 languages. His model examines the context of entire sentences to gain a nuanced understanding of the writer's intent."
+  },
+  {
+    "id": 35,
+    "name": "Michelle Wei",
+    "school": "The Harker School, San Jose, CA",
+    "batch": "2024",
+    "date_announced": "2024-01-24",
+    "project_title": "Solving Second-Order Cone Programs Deterministically in Matrix Multiplication Time",
+    "description": "Michelle Wei, 17, of Saratoga, improved second-order cone programming solvers. She showed that SOCP problems may always be converted into a modified form that has the same answer but is faster to solve."
+  },
+  {
+    "id": 36,
+    "name": "Nathan Wei",
+    "school": "Buchholz High School, Gainesville, FL",
+    "batch": "2024",
+    "date_announced": "2024-01-24",
+    "project_title": "Novel Elastomeric Polystyrene via Photopolymerization and Post-Functionalization of Durable Ultra-High Molecular Weight Perfluorostyrene Copolymers",
+    "description": "Nathan Wei, 17, of Gainesville, synthesized an ultra-high molecular weight plastic. He demonstrated that a UHMW polymer could be created under blue light with much lower energy requirements and produced a recyclable version with strong material properties."
+  },
+  {
+    "id": 37,
+    "name": "Julianne Wu",
+    "school": "University High School, Irvine, CA",
+    "batch": "2024",
+    "date_announced": "2024-01-24",
+    "project_title": "Sex-Related Signaling of the Angiotensin II Pathway in Primary Aortic Smooth Muscle Cells",
+    "description": "Julianne Wu, 17, of Irvine, explored the effects of testosterone and estrogen on arterial tissue. She noticed that when male arterial cells were exposed to estrogen, the presence of a protective receptor called angiotensin II type 2 increased."
+  },
+  {
+    "id": 38,
+    "name": "Selina Zhang",
+    "school": "North Hunterdon High School, Annandale, NJ",
+    "batch": "2024",
+    "date_announced": "2024-01-24",
+    "project_title": "ArTreeficial: A Novel AI-Integrated Solution to Reducing Invasive Spotted Lanternfly Populations",
+    "description": "Selina Zhang, 18, of Annandale, designed and field tested a synthetic, eco-conscious, A.I.-powered tree that uses machine learning to selectively lure and 'zap' the invasive spotted lanternfly. Her solar-powered prototype costs under $200 to construct."
+  },
+  {
+    "id": 39,
+    "name": "Christopher Zorn",
+    "school": "Irvington High School, Irvington, NY",
+    "batch": "2024",
+    "date_announced": "2024-01-24",
+    "project_title": "The Role of MYC in RET Fusion Tumorigenesis and RET Inhibitor Resistance",
+    "description": "Christopher Zorn, 17, of Irvington, studied how RET and MYC genes affect one another in genetically modified lung cancer cells. He found the MYC levels were elevated in most cell lines and often led to treatment resistance."
+  },
+  {
+    "id": 40,
+    "name": "Charisse Zou",
+    "school": "Dougherty Valley High School, San Ramon, CA",
+    "batch": "2024",
+    "date_announced": "2024-01-24",
+    "project_title": "The Development of a Free-Flying Method To Study the Effect of Neonicotinoids on the Positive Transfer of Learning in the Visual Domain of Honeybees",
+    "description": "Charisse Zou, 17, of San Ramon, investigated how two commonly used insecticides affected the cognitive abilities of honeybees. She discovered that exposure to imidacloprid reduced medium-term memory while clothianidin damaged long-term memory."
   }
 ] 
