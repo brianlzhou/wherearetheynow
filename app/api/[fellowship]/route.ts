@@ -19,14 +19,12 @@ export async function GET(
   }
 
   try {
-    // For now, if the fellowship-specific file doesn't exist, fall back to EV data
-    let filePath = path.resolve(process.cwd() + `/app/data/${FELLOWSHIP_THEMES[fellowship].dataFile}`);
+    const filePath = path.resolve(process.cwd() + `/app/data/${FELLOWSHIP_THEMES[fellowship].dataFile}`);
     
-    // Check if the file exists, if not use EV data as fallback
     try {
       await fs.access(filePath);
     } catch {
-      filePath = path.resolve(process.cwd() + '/app/data/ev-winners-with-embeddings.json');
+      return NextResponse.json([], { status: 200 }); // Return empty array if file doesn't exist
     }
 
     const file = await fs.readFile(filePath, 'utf8');

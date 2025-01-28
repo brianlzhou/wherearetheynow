@@ -4,7 +4,7 @@ import { useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { ChevronLeft, ChevronRight } from "lucide-react";
-import { FELLOWSHIP_THEMES } from "@/app/config/fellowships";
+import { FELLOWSHIP_THEMES, FELLOWSHIP_CATEGORIES } from "@/app/config/fellowships";
 import { cn } from "@/lib/utils";
 
 export default function Sidebar() {
@@ -37,38 +37,50 @@ export default function Sidebar() {
           {isCollapsed ? "F" : "Fellowships"}
         </Link>
 
-        <nav className="space-y-2">
-          {Object.entries(FELLOWSHIP_THEMES).map(([key, fellowship]) => {
-            const isActive = pathname === `/${key}`;
-            return (
-              <Link
-                key={key}
-                href={`/${key}`}
-                style={{
-                  '--fellowship-color': fellowship.color,
-                  '--fellowship-hover-color': fellowship.hoverColor,
-                } as React.CSSProperties}
-                className={cn(
-                  "flex items-center px-3 py-2 rounded-lg transition-colors",
-                  isCollapsed ? "justify-center" : "",
-                  isActive
-                    ? "bg-[var(--fellowship-color)] text-white"
-                    : "hover:bg-[var(--fellowship-hover-color)] hover:bg-opacity-10"
-                )}
-              >
-                <div
-                  className={cn(
-                    "w-2 h-2 rounded-full",
-                    "bg-[var(--fellowship-color)]",
-                    isActive && "bg-white"
-                  )}
-                />
-                {!isCollapsed && (
-                  <span className="ml-3">{fellowship.shortName}</span>
-                )}
-              </Link>
-            );
-          })}
+        <nav className="space-y-6">
+          {Object.entries(FELLOWSHIP_CATEGORIES).map(([categoryKey, category]) => (
+            <div key={categoryKey} className="space-y-2">
+              {!isCollapsed && (
+                <h3 className="text-sm font-medium text-gray-500 uppercase tracking-wider px-3">
+                  {category.title}
+                </h3>
+              )}
+              <div className="space-y-1">
+                {category.fellowships.map((fellowshipKey) => {
+                  const fellowship = FELLOWSHIP_THEMES[fellowshipKey];
+                  const isActive = pathname === `/${fellowshipKey}`;
+                  return (
+                    <Link
+                      key={fellowshipKey}
+                      href={`/${fellowshipKey}`}
+                      style={{
+                        '--fellowship-color': fellowship.color,
+                        '--fellowship-hover-color': fellowship.hoverColor,
+                      } as React.CSSProperties}
+                      className={cn(
+                        "flex items-center px-3 py-2 rounded-lg transition-colors",
+                        isCollapsed ? "justify-center" : "",
+                        isActive
+                          ? "bg-[var(--fellowship-color)] text-white"
+                          : "hover:bg-[var(--fellowship-hover-color)] hover:bg-opacity-10"
+                      )}
+                    >
+                      <div
+                        className={cn(
+                          "w-2 h-2 rounded-full",
+                          "bg-[var(--fellowship-color)]",
+                          isActive && "bg-white"
+                        )}
+                      />
+                      {!isCollapsed && (
+                        <span className="ml-3">{fellowship.shortName}</span>
+                      )}
+                    </Link>
+                  );
+                })}
+              </div>
+            </div>
+          ))}
         </nav>
       </div>
     </div>

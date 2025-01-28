@@ -5,21 +5,23 @@ import Link from 'next/link'
 import { Badge, badgeVariants } from "@/components/ui/badge"
 import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button"
-import { useState, useEffect, useMemo } from "react"
-import { QrCode } from 'lucide-react';
+import { useState, useEffect } from "react"
+import { FELLOWSHIP_THEMES } from './config/fellowships';
+import type { FellowshipKey } from './config/fellowships';
 
+// Update badges based on common themes across fellowships
 export const BADGES = [
-    'Progress studies', 'Climate change', 'AI', 'Career development', 'Podcasts', 'Blogs and Substacks', 'Biotech',
-    'Space', 'Mental health', 'Education', 'Cities', 'Robotics', 'Economics', 'Virtual reality',
-    'Startups', 'Venture capital'
-]
+    'AI', 'Climate', 'Education', 'Healthcare', 'Robotics', 
+    'Startups', 'Research', 'Software', 'Impact', 'Innovation'
+];
 
 interface SearchBarProps {
     setLoadingTrue: () => void;
+    fellowship: FellowshipKey;
+    theme: typeof FELLOWSHIP_THEMES[FellowshipKey];
 }
 
-export default function SearchBar({ setLoadingTrue }: SearchBarProps) {
-
+export default function SearchBar({ setLoadingTrue, fellowship, theme }: SearchBarProps) {
     const searchParams = useSearchParams();
     const pathname = usePathname();
     const { push } = useRouter();
@@ -40,17 +42,13 @@ export default function SearchBar({ setLoadingTrue }: SearchBarProps) {
 
     return (
         <>
-            <h2 className="font-semibold mb-2">Semantic search over every Emergent Ventures winner</h2>
+            <h2 className="font-semibold mb-2">Search {theme.name}</h2>
             <p className="mb-4 text-sm">
-                <a className="underline" href="https://www.mercatus.org/emergent-ventures">Emergent Ventures</a> is a fellowship and grant program founded by <a className="underline" href="https://en.wikipedia.org/wiki/Tyler_Cowen">Tyler Cowen</a>, economist and author of the blog Marginal Revolution,
-                from the Mercatus Center at GMU. It funds moonshots and highly ambitious ideas to improve society.
+                {theme.description}
             </p>
             <p className="mb-4 text-sm">
-                This site collects all winners in one place. You can also find a CSV by clicking the Github link on the top right.
-            </p>
-            <p className="mb-4 text-sm">
-                This search bar doesn&lsquo;t need you to get the keywords exactly right; it uses a technique from machine learning called embeddings to find close enough matches.
-                Here are a few starting suggestions for you:
+                This search uses semantic similarity to find relevant results - you don&apos;t need to get the exact keywords right.
+                Try searching for any of these topics:
             </p>
             <div className="flex flex-wrap gap-2 mb-4">
                 {BADGES.map((badgeText) => (
@@ -62,10 +60,10 @@ export default function SearchBar({ setLoadingTrue }: SearchBarProps) {
                         {badgeText}
                     </button>
                 ))}
-            </div >
+            </div>
             <div>
                 <form onSubmit={(event) => {
-                    event.preventDefault;
+                    event.preventDefault();
                     handleSearch(searchTerm);
                 }} className="flex">
                     <Input
