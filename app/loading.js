@@ -13,7 +13,7 @@ export default function LoadingSkeleton() {
         <>
         <div className="max-w-4xl mx-auto p-6 bg-white">
             <div className="flex justify-between items-center mb-4">
-                <h1 className="text-xl font-bold">Emergent Ventures Winners</h1>
+                <h1 className="text-xl font-bold">Fellowship Winners Explorer</h1>
                 <div className="flex space-x-4">
                 <Link href="#footer" className="text-blue-600">
                     about
@@ -23,14 +23,14 @@ export default function LoadingSkeleton() {
                 </Link>
                 </div>
             </div>
-            <div className="bg-[#00c79f] p-4 rounded-lg mb-6 text-black">
-                <h2 className="font-semibold mb-2">Semantic search over every Emergent Ventures winner</h2>
+            <div className="bg-gray-100 p-4 rounded-lg mb-6">
+                <h2 className="font-semibold mb-2">Search Across All Fellowships</h2>
                 <p className="mb-4 text-sm">
-                    This site uses semantic similarity to search all Emergent Ventures grantees. This search bar doesn&lsquo;t need you to get the keywords exactly right, only close enough, to find them.
+                    Discover talented individuals across multiple prestigious fellowship programs. From entrepreneurs and researchers to innovators and change-makers.
                 </p>
                 <p className="mb-4 text-sm">
-                    You can search for something very specific like &ldquo;Ukraine&rdquo; or &ldquo;career development&rdquo;, or something very broad like
-                    &ldquo;books&rdquo; or &ldquo;podcasts&rdquo;. Here are a few starting places:
+                    This site uses semantic similarity to power the search. You don&apos;t need to get the exact keywords right to find relevant results.
+                    Here are a few starting places:
                 </p>
                 <div className="flex flex-wrap gap-2 mb-4">
                     {BADGES.map((badgeText) => (

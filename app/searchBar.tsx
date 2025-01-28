@@ -40,11 +40,18 @@ export default function SearchBar({ setLoadingTrue, fellowship, theme }: SearchB
         setLoadingTrue();
     }
 
+    const isHomePage = pathname === '/';
+
     return (
         <>
-            <h2 className="font-semibold mb-2">Search {theme.name}</h2>
+            {/* <h2 className="font-semibold mb-2">
+                {isHomePage ? "Search Across All Fellowships" : `Search ${theme.name}`}
+            </h2> */}
             <p className="mb-4 text-sm">
-                {theme.description}
+                {isHomePage 
+                    ? "Discover talented individuals across multiple prestigious fellowship programs. From entrepreneurs and researchers to innovators and change-makers."
+                    : theme.description
+                }
             </p>
             <p className="mb-4 text-sm">
                 This search uses semantic similarity to find relevant results - you don&apos;t need to get the exact keywords right.
@@ -68,7 +75,7 @@ export default function SearchBar({ setLoadingTrue, fellowship, theme }: SearchB
                 }} className="flex">
                     <Input
                         className="flex-1 mr-2"
-                        placeholder="Search project descriptions..."
+                        placeholder={isHomePage ? "Search across all fellowships..." : "Search project descriptions..."}
                         name="query"
                         value={searchTerm}
                         onChange={(event) => setSearchTerm(event.target.value)}
