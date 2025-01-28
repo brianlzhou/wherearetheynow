@@ -6,19 +6,6 @@ import { FELLOWSHIP_THEMES } from "../config/fellowships";
 import type { FellowshipKey } from "../config/fellowships";
 import Container from "../container";
 
-// Helper function to determine if a color is light
-function isLightColor(color: string): boolean {
-  // Convert hex to RGB
-  const hex = color.replace('#', '');
-  const r = parseInt(hex.substr(0, 2), 16);
-  const g = parseInt(hex.substr(2, 2), 16);
-  const b = parseInt(hex.substr(4, 2), 16);
-  
-  // Calculate relative luminance
-  const luminance = (0.299 * r + 0.587 * g + 0.114 * b) / 255;
-  return luminance > 0.5;
-}
-
 interface FellowshipPageProps {
   params: {
     fellowship: string;
@@ -35,7 +22,6 @@ export default function FellowshipPage({ params }: FellowshipPageProps) {
   }
 
   const theme = FELLOWSHIP_THEMES[fellowship];
-  const isLight = isLightColor(theme.color);
 
   useEffect(() => {
     const loadData = async () => {
@@ -69,13 +55,10 @@ export default function FellowshipPage({ params }: FellowshipPageProps) {
       </div>
       
       <div 
-        className="p-6 rounded-lg mb-8"
-        style={{ 
-          backgroundColor: `${theme.color}15`,
-          color: isLight ? '#1a1a1a' : '#ffffff'
-        }}
+        className="p-6 rounded-lg mb-8 text-gray-800"
+        style={{ backgroundColor: `${theme.color}20` }}
       >
-        <p className="text-current">
+        <p>
           {theme.description}
         </p>
       </div>

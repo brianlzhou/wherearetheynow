@@ -72,7 +72,7 @@ export default function Container({ data }: ContainerProps) {
     return(
         <>
             <div 
-                className="p-4 rounded-lg mb-6 text-black"
+                className="p-4 rounded-lg mb-6 text-gray-800"
                 style={{ backgroundColor: `${theme.color}15` }}
             >
                 <SearchBar setLoadingTrue={setLoadingTrue} fellowship={fellowship} theme={theme} />

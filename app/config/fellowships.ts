@@ -90,8 +90,8 @@ export const FELLOWSHIP_THEMES = {
   cameron: {
     name: "Bryan Cameron Impact Scholar",
     shortName: "Cameron",
-    color: "#fef9c3",
-    hoverColor: "#fef08a",
+    color: "#d97706",
+    hoverColor: "#b45309",
     description: "Supporting students committed to making positive change in their communities.",
     columns: cameronColumns,
     dataFile: "cameron-scholars.json",
