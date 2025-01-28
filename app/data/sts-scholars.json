@@ -718,5 +718,365 @@
     "date_announced": "2024-01-24",
     "project_title": "The Development of a Free-Flying Method To Study the Effect of Neonicotinoids on the Positive Transfer of Learning in the Visual Domain of Honeybees",
     "description": "Charisse Zou, 17, of San Ramon, investigated how two commonly used insecticides affected the cognitive abilities of honeybees. She discovered that exposure to imidacloprid reduced medium-term memory while clothianidin damaged long-term memory."
+  },
+  {
+    "id": 81,
+    "name": "Kamisi Adetunji",
+    "school": "North Carolina School of Science and Mathematics, Durham, NC",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Modifying Naturally Sourced Flavonoids for Increased Antioxidant Capacity and Antisickling Activity",
+    "description": "Kamisi Adetunji investigated modifications to natural flavonoids to enhance their antioxidant properties and ability to prevent sickling in red blood cells."
+  },
+  {
+    "id": 82,
+    "name": "Ariella Maia Blackman",
+    "school": "Harrison High School, Harrison, NY",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Developing a Model in situ Resource Utilization System for Oxygen-Sustaining Life Support and Launch Cost Reduction for Mars",
+    "description": "Ariella Maia Blackman developed a system for producing oxygen on Mars to support life and reduce launch costs for future missions."
+  },
+  {
+    "id": 83,
+    "name": "Angela Chen",
+    "school": "North Carolina School of Science and Mathematics, Durham, NC",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Developing Wildfire Risk and Burn Area Prediction Models Using Comprehensive Environmental Variables for California With Machine Learning",
+    "description": "Angela Chen created machine learning models to predict wildfire risks and potential burn areas in California using environmental data."
+  },
+  {
+    "id": 84,
+    "name": "Corona Chen",
+    "school": "The University of Chicago Laboratory High School, Chicago, IL",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Understanding Incidental Microbial Communities Inside Ordinary Concrete Toward Decarbonization",
+    "description": "Corona Chen studied microbial communities in concrete to understand their potential role in reducing carbon emissions."
+  },
+  {
+    "id": 85,
+    "name": "Madeleine de Belloy",
+    "school": "Lycée Français de San Francisco, San Francisco, CA",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Computing the Mosaic Number of Reduced and Non-Reduced Projections of Knots",
+    "description": "Madeleine de Belloy investigated mathematical properties of knot theory, focusing on mosaic numbers in different knot projections."
+  },
+  {
+    "id": 86,
+    "name": "Cindy DeDianous",
+    "school": "Scarsdale High School, Scarsdale, NY",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Alpha Retinal Ganglion Cell Dysfunction Precedes Vascular Dysfunction in a Mouse Model of Type 1 Diabetes",
+    "description": "Cindy DeDianous studied how diabetes affects retinal cells, finding that certain nerve cells are damaged before blood vessel problems occur."
+  },
+  {
+    "id": 87,
+    "name": "August Deer",
+    "school": "Geffen Academy at UCLA, Los Angeles, CA",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "On Multi-Round Privacy in Federated Learning",
+    "description": "August Deer researched privacy protection methods in federated learning systems across multiple rounds of training."
+  },
+  {
+    "id": 88,
+    "name": "Angie Fogarty",
+    "school": "Greenwich High School, Greenwich, CT",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Rapid, Visual Detection of Illicit Substances in a Variety of Environments via Competitive, Amine-Responsive Fluorophores",
+    "description": "Angie Fogarty developed a method for quickly detecting illegal drugs using fluorescent molecules that respond to specific chemical compounds."
+  },
+  {
+    "id": 89,
+    "name": "Ambika Grover",
+    "school": "Greenwich High School, Greenwich, CT",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Design of a Novel, Dual-Functioning, Tissue Plasminogen Activator and Factor XI-Inhibiting Anticoagulant Therapeutic for Rapid Ischemic Stroke Treatment",
+    "description": "Ambika Grover designed a new drug that combines two mechanisms to treat stroke more effectively."
+  },
+  {
+    "id": 90,
+    "name": "Hannah Guan",
+    "school": "BASIS San Antonio Shavano Campus, San Antonio, TX",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Multi-Dimensional Interpretable Interaction Network (MDiiN) for Modeling Aging Health and Mortality",
+    "description": "Hannah Guan created a network model to understand how different factors interact to affect aging and mortality."
+  },
+  {
+    "id": 91,
+    "name": "Fenghuan (Linda) He",
+    "school": "Commonwealth School, Boston, MA",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "The Impact of Primordial Black Holes on Exoplanet Systems",
+    "description": "Fenghuan (Linda) He studied how ancient black holes might affect planetary systems around other stars."
+  },
+  {
+    "id": 92,
+    "name": "Michelle Hua",
+    "school": "Cranbrook Kingswood School, Bloomfield Hills, MI",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Novel Self-Supervised Deep Neural Networks for 3D Human Shape and Motion Reconstruction From a Monocular Video",
+    "description": "Michelle Hua developed AI systems to reconstruct 3D human movements from regular video footage."
+  },
+  {
+    "id": 93,
+    "name": "Linden Chi James",
+    "school": "North Carolina School of Science and Mathematics, Durham, NC",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Thyroid Hormone Treatment of Neurological Trauma Using the Model Galleria mellonella",
+    "description": "Linden Chi James investigated using thyroid hormones to treat nerve damage using wax moth larvae as a model organism."
+  },
+  {
+    "id": 94,
+    "name": "Thaddaeus Kiker",
+    "school": "Sunny Hills High School, Fullerton, CA",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "QPOML: Leveraging Machine Learning and Game Theory To Detect and Characterize Quasi-Periodic Oscillations in X-Ray Binaries",
+    "description": "Thaddaeus Kiker combined machine learning and game theory to study patterns in X-ray emissions from binary star systems."
+  },
+  {
+    "id": 95,
+    "name": "Elane Kim",
+    "school": "Stanford University Online High School, Redwood City, CA",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Effects of Chemotherapy on the Taste Stem Cell Microenvironment",
+    "description": "Elane Kim studied how chemotherapy affects taste bud stem cells and their surrounding environment."
+  },
+  {
+    "id": 96,
+    "name": "Emily Kim",
+    "school": "Jericho Senior High School, Jericho, NY",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "The Dual Roles of Activated Carbon as an Adsorbent and Photocatalyst for Azo Dye Removal",
+    "description": "Emily Kim investigated how activated carbon can both absorb and help break down harmful dyes in water."
+  },
+  {
+    "id": 97,
+    "name": "Evan Kim",
+    "school": "Tesla STEM High School, Redmond, WA",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "ScGAN: A Generative Adversarial Network To Predict Hypothetical Superconductors",
+    "description": "Evan Kim developed an AI system to predict new materials that might function as superconductors."
+  },
+  {
+    "id": 98,
+    "name": "Ryan Lee",
+    "school": "Palo Alto High School, Palo Alto, CA",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Mitochondrial Fission Regulates Structural Plasticity and Synapse Maintenance in Circadian Pacemaker Neurons",
+    "description": "Ryan Lee studied how mitochondrial division affects brain cell connections in neurons that control daily rhythms."
+  },
+  {
+    "id": 99,
+    "name": "Miah Christina Margiano",
+    "school": "Saint Anthony's High School, Melville, NY",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Potential Influence of LncRNAs in Tumor Regression: An Analysis of Prognostic LncRNAs in Neuroblastoma",
+    "description": "Miah Christina Margiano analyzed how certain RNA molecules might influence the progression of neuroblastoma cancer."
+  },
+  {
+    "id": 100,
+    "name": "Marissa Lilianna Martinez",
+    "school": "Monte Vista High School, Monte Vista, CO",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "A Habitat Assessment Protocol To Determine Suitability for Southwestern Willow Flycatcher Occupancy in the Northern Rio Grande Watershed",
+    "description": "Marissa Lilianna Martinez developed methods to evaluate suitable habitats for endangered flycatchers in the Rio Grande region."
+  },
+  {
+    "id": 101,
+    "name": "Samantha Maya Milewicz",
+    "school": "Byram Hills High School, Armonk, NY",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Selective Inhibition of Matrix Metalloproteinase-9 Attenuates Traumatic Brain Injury-Mediated Blood-Brain Barrier Disruption in a Novel Dynamic in vitro Model",
+    "description": "Samantha Maya Milewicz studied how blocking specific proteins might protect the brain after injury."
+  },
+  {
+    "id": 102,
+    "name": "Max Misterka",
+    "school": "Misterka Homeschool, Harrisonburg, VA",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "A Generalization of 𝑞-Calculus Using Formal Group Laws",
+    "description": "Max Misterka developed new mathematical methods to extend q-calculus using formal group theory."
+  },
+  {
+    "id": 103,
+    "name": "Neel Moudgal",
+    "school": "Saline High School, Saline, MI",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Using Unassigned NMR Chemical Shifts To Model RNA Secondary Structure",
+    "description": "Neel Moudgal created methods to predict RNA structure using unassigned NMR data."
+  },
+  {
+    "id": 104,
+    "name": "Ishika Nag",
+    "school": "Oviedo High School, Oviedo, FL",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Development of an Engineered Face Mask With Optimized Nanoparticle Layering for Filtration of Air Pollutants and Viral Pathogens",
+    "description": "Ishika Nag designed an improved face mask using nanoparticles to better filter out pollutants and viruses."
+  },
+  {
+    "id": 105,
+    "name": "Lavanya Natarajan",
+    "school": "Viera High School, Viera, FL",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "A Prescriptive IoT Solution To Detect and Mitigate Fugitive Methane Gas in Landfills via a Supervisory Control and Data Acquisition System",
+    "description": "Lavanya Natarajan developed an IoT system to monitor and control methane emissions from landfills."
+  },
+  {
+    "id": 106,
+    "name": "Oziomachukwu Chidubem Obi",
+    "school": "North Carolina School of Science and Mathematics, Durham, NC",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Determining if a Combination of Treatments Ibudilast and Interleukin 4 Can Treat or Prevent Multiple Sclerosis Using Model Organism Lumbricus terrestris",
+    "description": "Oziomachukwu Chidubem Obi tested combined treatments for multiple sclerosis using earthworms as model organisms."
+  },
+  {
+    "id": 107,
+    "name": "Emily Ocasio",
+    "school": "New School of Northern Virginia, Fairfax, VA",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Demographic Correlates of Humanizing Language in Media Coverage of Crime: Evidence From The Boston Globe, 1976-84",
+    "description": "Emily Ocasio analyzed how crime reporting language varies based on demographics in historical newspaper coverage."
+  },
+  {
+    "id": 108,
+    "name": "Siddhu Pachipala",
+    "school": "The Woodlands College Park High School, The Woodlands, TX",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "SuiSensor: A Novel, Low-Cost Machine Learning System for Real-Time Suicide Risk Identification and Treatment Optimization via Computational Linguistics",
+    "description": "Siddhu Pachipala created an AI system to identify suicide risk through language analysis."
+  },
+  {
+    "id": 109,
+    "name": "Joseph Miguel Robertazzi",
+    "school": "Ossining High School, Ossining, NY",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Migration and Magnetism: A Longitudinal Analysis Identifying the Relationship Between the South Atlantic Anomaly and Shifts in Migratory Bird Populations",
+    "description": "Joseph Miguel Robertazzi studied how Earth's magnetic field anomalies affect bird migration patterns."
+  },
+  {
+    "id": 110,
+    "name": "Joshua Logan Shunk",
+    "school": "Perry High School, Gilbert, AZ",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Neuron-Specific Dropout: A Deterministic Regularization Technique To Prevent Neural Networks From Overfitting and Reduce Dependence on Large Training Samples",
+    "description": "Joshua Logan Shunk developed a new method to improve neural network training with smaller datasets."
+  },
+  {
+    "id": 111,
+    "name": "Diego Emilio Suchenski Loustaunau",
+    "school": "Massachusetts Academy of Math & Science, Worcester, MA",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "In silico Design of Novel 2'FANA Oligonucleotides To Inhibit APOBEC3G",
+    "description": "Diego Emilio Suchenski Loustaunau designed new molecules to inhibit an enzyme involved in HIV infection."
+  },
+  {
+    "id": 112,
+    "name": "Jason Christopher Wang",
+    "school": "Brentwood High School, Brentwood, TN",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Differential Effects of Oncogenic Ras Isoforms on Epithelia",
+    "description": "Jason Christopher Wang investigated how different forms of the Ras protein affect cell development and cancer."
+  },
+  {
+    "id": 113,
+    "name": "Nolan Wen",
+    "school": "American Heritage School Boca-Delray, Delray Beach, FL",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Development and Characterization of a Novel Laponite-Enhanced Tannic Acid-Based Hydrogel",
+    "description": "Nolan Wen developed an improved hydrogel using clay minerals and tannic acid."
+  },
+  {
+    "id": 114,
+    "name": "Vivian Wu",
+    "school": "Palo Alto High School, Palo Alto, CA",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Evaluating the Impact of the Varroacide Formic Acid on Honeybee Foraging Performance",
+    "description": "Vivian Wu studied how treatments for varroa mites affect honeybees' ability to forage for food."
+  },
+  {
+    "id": 115,
+    "name": "Ellen Xu",
+    "school": "Del Norte High School, San Diego, CA",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "A Deep Convolutional Neural Network for Kawasaki Disease Diagnosis",
+    "description": "Ellen Xu developed an AI system to help diagnose Kawasaki Disease in patients."
+  },
+  {
+    "id": 116,
+    "name": "Jeffrey Xu",
+    "school": "Lowell High School, San Francisco, CA",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Characterizing Structure-Function Relationships in the CCR6/CCL20 Receptor-Ligand Pair",
+    "description": "Jeffrey Xu studied how certain proteins interact with their receptors in the immune system."
+  },
+  {
+    "id": 117,
+    "name": "Ethan Zhou",
+    "school": "McLean High School, Mclean, VA",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Online Learning of Smooth Functions",
+    "description": "Ethan Zhou developed new methods for machine learning systems to learn continuous functions in real-time."
+  },
+  {
+    "id": 118,
+    "name": "Kevin Zhu",
+    "school": "Jericho Senior High School, Jericho, NY",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Recurrent Repeat Contractions and Micro-Changing Short Tandem Repeats: Investigating Underrepresented Factors of Polymorphism in Human Cancers",
+    "description": "Kevin Zhu investigated how certain DNA sequence changes contribute to cancer development."
+  },
+  {
+    "id": 119,
+    "name": "Sally Zhu",
+    "school": "The Harker School, San Jose, CA",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "On the Smoothness and Regularity of the Chess Billiard Flow and the Poincaré Problem",
+    "description": "Sally Zhu studied mathematical properties of chess billiards and related geometric problems."
+  },
+  {
+    "id": 120,
+    "name": "Sophie Zhu",
+    "school": "Williamsville East High School, East Amherst, NY",
+    "batch": "2023",
+    "date_announced": "2023-01-24",
+    "project_title": "Factorizations in Evaluation Monoids of Laurent Semirings",
+    "description": "Sophie Zhu investigated mathematical properties of factorizations in certain algebraic structures."
   }
 ] 
