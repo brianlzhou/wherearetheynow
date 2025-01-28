@@ -1,5 +1,140 @@
 [
   {
+    "id": 135,
+    "name": "Sreenidi Bala",
+    "school": "TBD",
+    "batch": "2025",
+    "date_announced": "2025-01-01",
+    "description": "In honor of my dad and best friend, Bala, who has taught me that everyone around us has a need we can meet, if we choose to see it.",
+    "hometown": "Farmimgton, CT"
+  },
+  {
+    "id": 134,
+    "name": "Ava Cammarata",
+    "school": "TBD",
+    "batch": "2025",
+    "date_announced": "2025-01-01",
+    "description": "In honor of my parents - Terrie and Fabien Cammarata - who taught me to break ceilings and challenge what is possible.",
+    "hometown": "New York, NY"
+  },
+  {
+    "id": 133,
+    "name": "Kristi Chadha",
+    "school": "TBD",
+    "batch": "2025",
+    "date_announced": "2025-01-01",
+    "description": "In honor of my mother - She inspires me every day to believe that no matter where you start, the possibilities are endless if you never stop striving.",
+    "hometown": "San Jacinto, CA"
+  },
+  {
+    "id": 132,
+    "name": "Brandon Cheng",
+    "school": "TBD",
+    "batch": "2025",
+    "date_announced": "2025-01-01",
+    "description": "In honor of my grandmother, Wen Li. Born into poverty during the Chinese Civil War, she overcame all the odds stacked against her to become a female doctor in China in the 1950s. She's shown me what it means to lead one's life in service to others--to always give to others even when one does not have much.",
+    "hometown": "San Marino, CA"
+  },
+  {
+    "id": 131,
+    "name": "Rida Karim",
+    "school": "TBD",
+    "batch": "2025",
+    "date_announced": "2025-01-01",
+    "description": "In honor of Abdul Karim.",
+    "hometown": "Annandale, VA"
+  },
+  {
+    "id": 130,
+    "name": "Elena Klopfenstein",
+    "school": "Stanford University",
+    "batch": "2025",
+    "date_announced": "2025-01-01",
+    "description": "In honor of my mom, who's continual support and love taught me that compassion goes a long way; and in honor of my dad who taught me that grit and a bit of stubbornness can create impact.",
+    "hometown": "Cameron, AZ"
+  },
+  {
+    "id": 129,
+    "name": "Calvin Mathew",
+    "school": "TBD",
+    "batch": "2025",
+    "date_announced": "2025-01-01",
+    "description": "In honor of my parents and sisters.",
+    "hometown": "Davie, FL"
+  },
+  {
+    "id": 128,
+    "name": "Braden Mathis",
+    "school": "TBD",
+    "batch": "2025",
+    "date_announced": "2025-01-01",
+    "description": "In honor of my grandparents, who taught me to live selflessly and love endlessly.",
+    "hometown": "Adairsville, GA"
+  },
+  {
+    "id": 127,
+    "name": "Varun Mukund",
+    "school": "Duke University",
+    "batch": "2025",
+    "date_announced": "2025-01-01",
+    "description": "In honor of my brother - Pranav Mukund.",
+    "hometown": "Dallas, TX"
+  },
+  {
+    "id": 126,
+    "name": "Sierra Pape",
+    "school": "Harvard College",
+    "batch": "2025",
+    "date_announced": "2025-01-01",
+    "description": "In honor of Ann and Jeff Cramer, who champion social responsibility and fiercely give back to our urban community.",
+    "hometown": "Atlanta, GA"
+  },
+  {
+    "id": 125,
+    "name": "Christopher Pedro",
+    "school": "TBD",
+    "batch": "2025",
+    "date_announced": "2025-01-01",
+    "description": "In honor of Dr. David Dry, the teacher who inspired me to believe in my ability to achieve anything I set my mind to and for encouraging me to be a voice, through research, for the Mayan people-my people.",
+    "hometown": "Morganton, NC"
+  },
+  {
+    "id": 124,
+    "name": "Ethan Sullivan",
+    "school": "TBD",
+    "batch": "2025",
+    "date_announced": "2025-01-01",
+    "description": "In honor of my mom, Ivette Motola.",
+    "hometown": "Miami, FL"
+  },
+  {
+    "id": 123,
+    "name": "Jenell Theobald",
+    "school": "TBD",
+    "batch": "2025",
+    "date_announced": "2025-01-01",
+    "description": "In honor of my grandmother, who spent her last years taking me places, teaching me life skills, and elaborately styling my hair. I wish you could see how your hard work paid off.",
+    "hometown": "Beaverton, OR"
+  },
+  {
+    "id": 122,
+    "name": "Mycal Turner",
+    "school": "TBD",
+    "batch": "2025",
+    "date_announced": "2025-01-01",
+    "description": "In honor of Nanny Jane, Grandma Lillie, Mother and Brother.",
+    "hometown": "Urbana, IL"
+  },
+  {
+    "id": 121,
+    "name": "Banks Vadeboncoeur",
+    "school": "Stanford University",
+    "batch": "2025",
+    "date_announced": "2025-01-01",
+    "description": "In honor of my dad, Tyler Vadeboncoeur, whose example inspires me to pour my heart into everything I do.",
+    "hometown": "Ponte Vedra Beach, FL"
+  },
+  {
     "id": 120,
     "name": "Samin Bhan",
     "school": "Stanford University",
