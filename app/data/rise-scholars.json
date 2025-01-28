@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Grace Kim",
+    "school": "Seoul Science High School",
+    "batch": "2024",
+    "date_announced": "2024-01-01",
+    "description": null,
+    "country": "South Korea",
+    "project_area": "AI for Healthcare"
+  },
+  {
+    "id": 2,
+    "name": "Hassan Ahmed",
+    "school": "Dubai College",
+    "batch": "2024",
+    "date_announced": "2024-01-01",
+    "description": null,
+    "country": "UAE",
+    "project_area": "Renewable Energy"
+  },
+  {
+    "id": 3,
+    "name": "Isabella Santos",
+    "school": "St. Paul's School",
+    "batch": "2024",
+    "date_announced": "2024-01-01",
+    "description": null,
+    "country": "Brazil",
+    "project_area": "Environmental Conservation"
+  }
+] 

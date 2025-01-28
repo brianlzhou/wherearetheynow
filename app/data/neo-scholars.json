@@ -1,0 +1,514 @@
+[
+  {
+    "id": 1,
+    "name": "Addison Spiegel",
+    "school": "MIT",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 2,
+    "name": "Angela Zhang",
+    "school": "University of Pennsylvania",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 3,
+    "name": "Areeb Khan",
+    "school": "University of Michigan",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 4,
+    "name": "Brooke Joseph",
+    "school": "Waterloo",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 5,
+    "name": "Charlie Meyer",
+    "school": "University of Virginia",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 6,
+    "name": "Christine Li",
+    "school": "Columbia",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 7,
+    "name": "Emily Zhang",
+    "school": "Stanford",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 8,
+    "name": "Eva Tuecke",
+    "school": "Harvard",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 9,
+    "name": "Gashon Hussein",
+    "school": "Stanford",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 10,
+    "name": "Grace Gerwe",
+    "school": "Yale",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 11,
+    "name": "Hannah Zhou",
+    "school": "Harvard",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 12,
+    "name": "Harry Sanders",
+    "school": "University of Michigan",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 13,
+    "name": "Houjun (Jack) Liu",
+    "school": "Stanford",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 14,
+    "name": "Hudzah Nazoordeen",
+    "school": "Waterloo",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 15,
+    "name": "Huxley Marvit",
+    "school": "Princeton",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 16,
+    "name": "Jacob Daitzman",
+    "school": "MIT",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 17,
+    "name": "Janelle Cai",
+    "school": "MIT",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 18,
+    "name": "Jeffrey Wang",
+    "school": "Harvard",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 19,
+    "name": "Luke Tchang",
+    "school": "Stanford",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 20,
+    "name": "Maksym Bondarenko",
+    "school": "Columbia",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 21,
+    "name": "Marcelo Chaman Mallqui",
+    "school": "Queen's University",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 22,
+    "name": "Mason Lee",
+    "school": "Brown",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 23,
+    "name": "Oluwatoni Akintola",
+    "school": "Notre Dame",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 24,
+    "name": "Oran Goodman",
+    "school": "NYU",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 25,
+    "name": "Pranav Ramesh",
+    "school": "Harvard",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 26,
+    "name": "Rajan Agarwal",
+    "school": "Waterloo",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 27,
+    "name": "Rayna Arora",
+    "school": "MIT",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 28,
+    "name": "Serena Mao",
+    "school": "Harvey Mudd",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 29,
+    "name": "Seth Goldin",
+    "school": "Yale",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 30,
+    "name": "Shreshth Rajan",
+    "school": "Harvard",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 31,
+    "name": "Soham Govande",
+    "school": "Stanford",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 32,
+    "name": "Tomas Salgado",
+    "school": "Cornell",
+    "batch": "2025",
+    "description": "Placeholder",
+    "date_announced": "2024-01-01"
+  },
+  {
+    "id": 33,
+    "name": "Adanna Abraham-Igwe",
+    "school": "MIT",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 34,
+    "name": "Aidan Pratt",
+    "school": "Georgia Tech",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 35,
+    "name": "Andrew Healey",
+    "school": "Cambridge",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 36,
+    "name": "Angela Busheska",
+    "school": "Lafayette College",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 37,
+    "name": "Anirudh Ramprasad",
+    "school": "University of Michigan",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 38,
+    "name": "Armel Talla",
+    "school": "UT Austin",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 39,
+    "name": "Austin Chen",
+    "school": "Yale",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 40,
+    "name": "Brendon Matusch",
+    "school": "Stanford",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 41,
+    "name": "Caine Ardayfio",
+    "school": "Harvard",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 42,
+    "name": "Cathy Zhou",
+    "school": "Stanford",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 43,
+    "name": "Charan Sriram",
+    "school": "UT Austin",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 44,
+    "name": "Chetan Nair",
+    "school": "Stanford",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 45,
+    "name": "Daniel Longo",
+    "school": "Stanford",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 46,
+    "name": "David Koplow",
+    "school": "MIT",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 47,
+    "name": "David Krajewski",
+    "school": "Carnegie Mellon",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 48,
+    "name": "Eric Li",
+    "school": "Harvard",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 49,
+    "name": "Inga Zhuravleva",
+    "school": "UC Berkeley",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 50,
+    "name": "Joe Zakielarz",
+    "school": "Duke",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 51,
+    "name": "Julian Quevedo",
+    "school": "Stanford",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 52,
+    "name": "Karen Li",
+    "school": "Harvard",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 53,
+    "name": "Madeline Park",
+    "school": "Columbia",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 54,
+    "name": "Maria Izzi",
+    "school": "Duke",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 55,
+    "name": "Mathurah Ravigulan",
+    "school": "Waterloo",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 56,
+    "name": "Matthew Espinoza",
+    "school": "Laurentian",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 57,
+    "name": "Mehmet Deniz Birlikci",
+    "school": "Carnegie Mellon",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 58,
+    "name": "Noredeen Al-Zu'bi",
+    "school": "Waterloo",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 59,
+    "name": "Robert Wachen",
+    "school": "Harvard",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 60,
+    "name": "Sachin Rammoorthy",
+    "school": "University of Michigan",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 61,
+    "name": "Shrey Pandya",
+    "school": "University of Michigan",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 62,
+    "name": "Sneha Sivakumar",
+    "school": "Yale",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 63,
+    "name": "Sophia Abolore",
+    "school": "University of Toronto",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  },
+  {
+    "id": 64,
+    "name": "Tinah Hong",
+    "school": "MIT",
+    "batch": "2024",
+    "description": "Placeholder",
+    "date_announced": "2023-01-01"
+  }
+] 

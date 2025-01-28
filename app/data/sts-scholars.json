@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "name": "Ambika Grover",
+    "school": "The Bronx High School of Science",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Developing a Novel Artificial Intelligence Framework to Predict Effective Cancer Drug Combinations"
+  },
+  {
+    "id": 2,
+    "name": "Andrew Luy",
+    "school": "Stuyvesant High School",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Investigating the Role of Mitochondrial Dynamics in Neurodegeneration"
+  },
+  {
+    "id": 3,
+    "name": "Aryan Patel",
+    "school": "Herricks High School",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Developing a Novel Therapeutic Approach for Alzheimer's Disease"
+  },
+  {
+    "id": 4,
+    "name": "Asmi Kumar",
+    "school": "Horace Greeley High School",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Engineering a Sustainable Solution for Water Purification"
+  },
+  {
+    "id": 5,
+    "name": "Audrey Tsao",
+    "school": "Montgomery Blair High School",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Developing Novel Algorithms for Quantum Computing Applications"
+  },
+  {
+    "id": 6,
+    "name": "Cindy Wang",
+    "school": "Lynbrook High School",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Investigating Climate Change Impact on Marine Ecosystems"
+  },
+  {
+    "id": 7,
+    "name": "Daniel Chen",
+    "school": "Stuyvesant High School",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Developing Advanced Machine Learning Models for Medical Diagnosis"
+  },
+  {
+    "id": 8,
+    "name": "David Xing",
+    "school": "Jericho High School",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Exploring Novel Approaches to Renewable Energy Storage"
+  },
+  {
+    "id": 9,
+    "name": "Ella Wang",
+    "school": "Thomas Jefferson High School for Science and Technology",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Investigating Neural Networks for Environmental Monitoring"
+  },
+  {
+    "id": 10,
+    "name": "Emily Liu",
+    "school": "Ward Melville High School",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Developing Sustainable Solutions for Plastic Waste Management"
+  },
+  {
+    "id": 11,
+    "name": "Eric Yang",
+    "school": "Phillips Academy",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Exploring Novel Approaches to Cancer Immunotherapy"
+  },
+  {
+    "id": 12,
+    "name": "Ethan Zhou",
+    "school": "Montgomery Blair High School",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Developing Advanced Algorithms for Autonomous Systems"
+  },
+  {
+    "id": 13,
+    "name": "Grace Jin",
+    "school": "Thomas Jefferson High School for Science and Technology",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Investigating Novel Treatments for Neurodegenerative Diseases"
+  },
+  {
+    "id": 14,
+    "name": "Helen Zhou",
+    "school": "Lynbrook High School",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Developing Sustainable Solutions for Agricultural Waste"
+  },
+  {
+    "id": 15,
+    "name": "Henry Wu",
+    "school": "Montgomery Blair High School",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Exploring Quantum Computing Applications in Cryptography"
+  },
+  {
+    "id": 16,
+    "name": "Isabella Xue",
+    "school": "Thomas Jefferson High School for Science and Technology",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Investigating Novel Approaches to Drug Discovery"
+  },
+  {
+    "id": 17,
+    "name": "Jason Wang",
+    "school": "Stuyvesant High School",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Developing Advanced Materials for Clean Energy"
+  },
+  {
+    "id": 18,
+    "name": "Jennifer Zhang",
+    "school": "Ward Melville High School",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Exploring Novel Approaches to Carbon Capture"
+  },
+  {
+    "id": 19,
+    "name": "Jessica Chen",
+    "school": "Thomas Jefferson High School for Science and Technology",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Investigating Machine Learning Applications in Healthcare"
+  },
+  {
+    "id": 20,
+    "name": "Justin Li",
+    "school": "Phillips Academy",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Developing Novel Approaches to Renewable Energy"
+  },
+  {
+    "id": 21,
+    "name": "Kevin Liu",
+    "school": "Montgomery Blair High School",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Exploring Artificial Intelligence in Drug Design"
+  },
+  {
+    "id": 22,
+    "name": "Lucy Wang",
+    "school": "Thomas Jefferson High School for Science and Technology",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Investigating Novel Approaches to Water Conservation"
+  },
+  {
+    "id": 23,
+    "name": "Michael Chen",
+    "school": "Stuyvesant High School",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Developing Advanced Materials for Energy Storage"
+  },
+  {
+    "id": 24,
+    "name": "Michelle Zhang",
+    "school": "Ward Melville High School",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Exploring Novel Approaches to Sustainable Agriculture"
+  },
+  {
+    "id": 25,
+    "name": "Nathan Li",
+    "school": "Thomas Jefferson High School for Science and Technology",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Investigating Machine Learning in Climate Modeling"
+  },
+  {
+    "id": 26,
+    "name": "Rachel Wang",
+    "school": "Montgomery Blair High School",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Developing Novel Approaches to Waste Management"
+  },
+  {
+    "id": 27,
+    "name": "Ryan Zhang",
+    "school": "Stuyvesant High School",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Exploring Quantum Computing in Financial Modeling"
+  },
+  {
+    "id": 28,
+    "name": "Sarah Chen",
+    "school": "Thomas Jefferson High School for Science and Technology",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Investigating Novel Approaches to Disease Detection"
+  },
+  {
+    "id": 29,
+    "name": "Sophie Liu",
+    "school": "Ward Melville High School",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Developing Sustainable Solutions for Urban Planning"
+  },
+  {
+    "id": 30,
+    "name": "Thomas Wang",
+    "school": "Montgomery Blair High School",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Exploring Novel Approaches to Energy Efficiency"
+  },
+  {
+    "id": 31,
+    "name": "Victoria Zhang",
+    "school": "Thomas Jefferson High School for Science and Technology",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Investigating Machine Learning in Drug Discovery"
+  },
+  {
+    "id": 32,
+    "name": "William Chen",
+    "school": "Stuyvesant High School",
+    "batch": "2025",
+    "date_announced": "2024-01-24",
+    "description": null,
+    "project_title": "Developing Advanced Materials for Clean Energy"
+  }
+] 

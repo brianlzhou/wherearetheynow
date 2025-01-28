@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Chen",
+    "batch": "Z1",
+    "date_announced": "2023-01-15",
+    "description": "Building a next-generation code review tool with AI assistance",
+    "tech_stack": ["TypeScript", "Python", "React", "OpenAI"],
+    "github": "alicechen",
+    "startup_idea": "AI-powered code review and documentation platform",
+    "linkedin": "alice-chen-dev",
+    "twitter": "alicecodes",
+    "personal_website": "alice-chen.dev",
+    "embedding_description": []
+  },
+  {
+    "id": 2,
+    "name": "David Kumar",
+    "batch": "Z1",
+    "date_announced": "2023-01-15",
+    "description": "Creating a marketplace for sustainable fashion",
+    "tech_stack": ["JavaScript", "Node.js", "React Native"],
+    "github": "davidk",
+    "startup_idea": "Sustainable fashion marketplace with carbon footprint tracking",
+    "linkedin": "david-kumar",
+    "twitter": "davidkumar",
+    "personal_website": "davidkumar.io",
+    "embedding_description": []
+  }
+] 

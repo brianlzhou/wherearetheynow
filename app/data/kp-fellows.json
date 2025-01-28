@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Chen",
+    "school": "Stanford University",
+    "batch": "2024",
+    "date_announced": "2024-01-01",
+    "description": null,
+    "role": "Software Engineer",
+    "company": "Google"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "school": "MIT",
+    "batch": "2024",
+    "date_announced": "2024-01-01",
+    "description": null,
+    "role": "Product Manager",
+    "company": "Meta"
+  },
+  {
+    "id": 3,
+    "name": "Carol Wu",
+    "school": "UC Berkeley",
+    "batch": "2024",
+    "date_announced": "2024-01-01",
+    "description": null,
+    "role": "Software Engineer",
+    "company": "Apple"
+  }
+] 

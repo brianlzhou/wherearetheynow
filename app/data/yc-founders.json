@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "Emily Rodriguez",
+    "batch": "W24",
+    "batch_season": "W",
+    "batch_year": 2024,
+    "date_announced": "2024-01-10",
+    "description": "Building AI-powered financial planning tools for millennials",
+    "company_name": "FinAI",
+    "company_url": "finai.com",
+    "industry": "Fintech",
+    "funding_raised": "$500K",
+    "status": "Active",
+    "linkedin": "emily-rodriguez",
+    "twitter": "emilyfinai",
+    "embedding_description": []
+  },
+  {
+    "id": 2,
+    "name": "James Wilson",
+    "batch": "W24",
+    "batch_season": "W",
+    "batch_year": 2024,
+    "date_announced": "2024-01-10",
+    "description": "Developing a platform for automated software testing",
+    "company_name": "TestPilot",
+    "company_url": "testpilot.dev",
+    "industry": "Developer Tools",
+    "funding_raised": "$750K",
+    "status": "Active",
+    "linkedin": "james-wilson-dev",
+    "twitter": "jwilson_dev",
+    "embedding_description": []
+  }
+] 
