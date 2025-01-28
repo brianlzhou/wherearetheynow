@@ -82,10 +82,10 @@ export default function Page() {
       <div className="flex justify-between items-center mb-4">
         <h1 className="text-2xl font-bold">Where are they now?</h1>
         <div className="flex space-x-4">
-          <a href="#footer" className="text-blue-600">
+          <a href="#footer" className="font-bold">
             about
           </a>
-          <a className="text-blue-600" href="https://github.com/nqureshi/ev-winners">
+          <a className="font-bold" href="https://github.com/brianlzhou/wherearetheynow">
             github
           </a>
         </div>
@@ -93,7 +93,11 @@ export default function Page() {
 
       <div className="bg-gray-50 p-6 rounded-lg mb-8">
         <h2 className="text-xl font-semibold mb-4">Search Across All Fellowships</h2>
-        <SearchBar setLoadingTrue={() => setIsLoading(true)} />
+        <SearchBar 
+          setLoadingTrue={() => setIsLoading(true)} 
+          fellowship="ev" 
+          theme={FELLOWSHIP_THEMES.ev}
+        />
       </div>
 
       {isLoading ? (

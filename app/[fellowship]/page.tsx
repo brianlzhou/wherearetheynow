@@ -45,10 +45,10 @@ export default function FellowshipPage({ params }: FellowshipPageProps) {
           {theme.name}
         </h1>
         <div className="flex space-x-4">
-          <a href="#footer" className="text-blue-600">
+          <a href="#footer" className="font-bold" style={{ color: theme.color }}>
             about
           </a>
-          <a className="text-blue-600" href="https://github.com/nqureshi/wherearetheynow">
+          <a className="font-bold" href="https://github.com/nqureshi/wherearetheynow" style={{ color: theme.color }}>
             github
           </a>
         </div>
