@@ -1,32 +1,23 @@
 [
   {
     "id": 1,
-    "name": "Grace Kim",
-    "school": "Seoul Science High School",
-    "batch": "2024",
-    "date_announced": "2024-01-01",
-    "description": null,
-    "country": "South Korea",
-    "project_area": "AI for Healthcare"
+    "name": "Aabhas Asit Senapati",
+    "batch": "2021",
+    "description": "Aabhas created a startup called ThingFinder, a tag-based device that helps Alzheimer patients and the elderly keep track of their day-to-day objects.  The 16-year-old social entrepreneur, who has raised $3,500+ in grants, wants to radically change the mindset of people and strives to reform education. Having won over 7 hackathons, including 3 MIT challenges, Aabhas also sits on the advisory board of UNICEF’s Young People’s Action Team. He wants to dedicate his life to implementing the change he envisions. research & targeted advocacy.",
+    "country": "India"
   },
   {
     "id": 2,
-    "name": "Hassan Ahmed",
-    "school": "Dubai College",
-    "batch": "2024",
-    "date_announced": "2024-01-01",
-    "description": null,
-    "country": "UAE",
-    "project_area": "Renewable Energy"
+    "name": "Aadya Bhat",
+    "batch": "2021",
+    "description": "Aadya hopes to build a better world through innovation. For her Rise project, Aadya tackled the issue of accessibility in the retail industry and created a prototype for shelves that would improve access for people with disabilities. Interested in civics, Aadya is a 2021 fellow at Civics Unplugged and is also a builder for the Civics 2030 campaign. She has been nominated for the Broadcom Masters National Science Fair three times. She has won multiple awards at the Northwest Science Expo and Washington State Science and Engineering Fair.",
+    "country": "United States"
   },
   {
     "id": 3,
-    "name": "Isabella Santos",
-    "school": "St. Paul's School",
-    "batch": "2024",
-    "date_announced": "2024-01-01",
-    "description": null,
-    "country": "Brazil",
-    "project_area": "Environmental Conservation"
+    "name": "Aaron Li",
+    "batch": "2021",
+    "description": "Aaron is passionate about technological innovation, sustainability, entrepreneurship, social justice, educational equality, and songwriting. He co-founded a global, multilingual non-profit that offers free tech courses and workshops for students. He is also committed to establishing an entrepreneur incubator to empower young innovators to bring their ideas to life. Aaron has won 28 awards in prestigious international and national competitions for his work across multiple disciplines. For his Rise project, he created “RecyLink”—a mobile app that creates a more efficient recycling community by linking students, schools, recycling centers, and local governments through AI and cloud technology.",
+    "country": "United States"
   }
 ] 
